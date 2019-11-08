@@ -7,7 +7,6 @@
 
 ![Пример каталога](catalog.png)
 
-*Тебе потребуется: [e.stopPropagation()](https://developer.mozilla.org/ru/docs/Web/API/Event/stopPropagation)*
 
 ### Release 0
 
